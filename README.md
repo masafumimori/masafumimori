@@ -4,6 +4,15 @@ I'm Masafumi Mori based in Tokyo, Japan.
 
 Interested in blockchain technology.
 
+## 📈 GitHub Stats 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masafumimori&count_private=true&show_icons=true&theme=swift" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masafumimori&hide=ruby&layout=compact" />
+</a>
+
+
 ## 💻 Technologies & Tools
 
 [![React][react.js]][react-url]
@@ -27,13 +36,12 @@ Interested in blockchain technology.
 [![Discord][discord]][discord-url]
 [![WordPress][wordpress]][wordpress-url]
 
-## 📈 GitHub Stats 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masafumimori&count_private=true&show_icons=true&theme=swift)](https://github.com/masafumimori/github-readme-stats)
+<div></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masafumimori&hide=ruby&layout=compact)](https://github.com/masafumimori/github-readme-stats)
-
-<!-- [![masafumimori's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masafumimori)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--
+[![masafumimori's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masafumimori)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ![](https://komarev.com/ghpvc/?username=masafumimori)
 [![Profile last updated](https://img.shields.io/github/last-commit/masafumimori/masafumimori/main?label=Last%20updated)](https://github.com/masafumimori/masafumimori/commits)
