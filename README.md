@@ -4,13 +4,15 @@ I'm Masafumi Mori based in Tokyo, Japan.
 
 Interested in blockchain technology.
 
-## 📈 GitHub Stats 
+## 📈 GitHub Stats
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masafumimori&count_private=true&show_icons=true&theme=swift" />
+  <img height="207em align="center" src="https://github-readme-stats.vercel.app/api?username=masafumimori&count_private=true&show_icons=true&theme=swift" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masafumimori&hide=ruby&layout=compact" />
+  <img height="207em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masafumimori&hide=ruby&layout=compact" />
 </a>
+</div>
 
 
 ## 💻 Technologies & Tools
