@@ -36,7 +36,7 @@ Interested in blockchain technology.
 <!-- [![masafumimori's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masafumimori)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![](https://komarev.com/ghpvc/?username=masafumimori)
-[![Profile last updated](https://img.shields.io/github/last-commit/masafumimori/masafumimori/master?label=Last%20updated)](https://github.com/masafumimori/masafumimori/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/masafumimori/masafumimori/main?label=Last%20updated)](https://github.com/masafumimori/masafumimori/commits)
 
 <!--
 **masafumimori/masafumimori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
