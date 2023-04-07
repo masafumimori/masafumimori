@@ -19,6 +19,7 @@ Interested in blockchain technology.
 
 [![React][react.js]][react-url]
 [![TypeScript][typescript]][typescript-url]
+[![Python][python]][python-url]
 [![Solidity][solidity]][solidity-url]
 [![Javascript][javascript]][javascript-url]
 [![Node.js][nodejs]][nodejs-url]
@@ -71,6 +72,8 @@ Here are some ideas to get you started:
 [chakraui-url]: https://chakra-ui.com
 [typescript]: https://img.shields.io/badge/TypeScript-3077C6?style=for-the-badge&logo=typescript&logoColor=white
 [typescript-url]: https://www.typescriptlang.org
+[python]: https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FEDE73
+[python-url]: https://www.python.org
 [solidity]: https://img.shields.io/badge/Solidity-343131?style=for-the-badge&logo=solidity&logoColor=white
 [solidity-url]: https://docs.soliditylang.org/en/v0.8.15/
 [javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
