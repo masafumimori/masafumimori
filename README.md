@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Masafumi Mori based in Tokyo, Japan.
+I'm Masafumi Mori based in Kobe, Japan.
 
 Interested in blockchain technology.
 
